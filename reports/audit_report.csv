@@ -1,0 +1,5 @@
+| log_id | entity_type | entity_id | operation | performed_by | performed_at      |
+|--------|-------------|-----------|-----------|--------------|-------------------|
+| 1      | order       | 101       | insert    | 3            | 2026-01-13 20:00  |
+| 2      | product     | 1         | update    | 1            | 2026-01-13 20:05  |
+| 3      | order       | 101       | update    | 2            | 2026-01-13 20:10  |

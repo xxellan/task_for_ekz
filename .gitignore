@@ -1,0 +1,22 @@
+# Бинарные файлы
+/build/
+/*.exe
+/*.out
+/*.o
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Отчёты
+/reports/*.csv
+
+# SQL дампы локально
+/sql/*.bak
+
+# IDE
+*.vscode/
+*.idea/
+
